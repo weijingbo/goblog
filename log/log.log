@@ -1,0 +1,2 @@
+time="2023-01-03T21:34:02+08:00" level=info Agent=PostmanRuntime/7.30.0 DataSize=66 HostName=LAPTOP-5S3IKFGB Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="0 ms" status=200
+time="2023-01-03T21:34:18+08:00" level=info Agent=PostmanRuntime/7.30.0 DataSize=198 HostName=LAPTOP-5S3IKFGB Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="5 ms" status=200
